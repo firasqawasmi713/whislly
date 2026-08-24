@@ -1,0 +1,7 @@
+{
+  "name": "pointepay",
+  "description": "A manual client reference system with project logs, project invoices, freelancer/employee payout tracking, management spendings register, monthly client income reports, and quarterly financial dashboard.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
